@@ -1,4 +1,4 @@
-# CombinedProjectGithub
+# Panorama creation and Image operations
 
 - Executed SIFT detector, KNN matching, RANSAC algorithm and carried out stitching of images.
 
